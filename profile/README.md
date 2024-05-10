@@ -1,3 +1,3 @@
 # DOCS
 
-[Order Sewrvice and orchestrator](vgt-saga-orders/README.md)
+[Order Sewrvice and orchestrator](VeryGoodTravel/vgt-saga-orders/README.md)
