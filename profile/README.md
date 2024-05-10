@@ -1,7 +1,9 @@
 # DOCS
 
-[Order Sewrvice and orchestrator](https://github.com/VeryGoodTravel/vgt-saga-orders/blob/main/README.md)
 
-[Order Sewrvice and orchestrator](VeryGoodTravel/vgt-saga-orders/README.md)
+## SAGA documentation
+ - [RabbitMQ Broker](https://github.com/VeryGoodTravel/vgt-broker/blob/main/README.md)
+ - [SAGA messages format and serialization](https://github.com/VeryGoodTravel/vgt-saga-serialization/blob/main/README.md)
+ - [Order Service and orchestrator](https://github.com/VeryGoodTravel/vgt-saga-orders/blob/main/README.md)
 
-VeryGoodTravel/vgt-saga-orders/README.md
+
