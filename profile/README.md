@@ -22,6 +22,7 @@ SAGA transaction flow is presented by the schema bellow:
 
  ## Frontend documentation
  - [Web application](https://github.com/VeryGoodTravel/vgt-web-app/blob/main/docs/docs.md)
+ - [Acceptance tests for web application in Selenium](https://github.com/VeryGoodTravel/vgt-selenium-tests)
 
 ## Backend documentation
  - [API](https://github.com/VeryGoodTravel/vgt-api/blob/docs/Docs/README.md)
