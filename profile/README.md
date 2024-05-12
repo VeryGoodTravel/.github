@@ -18,6 +18,7 @@ All the services are described in the linked readme files bellow with the orches
 
 SAGA transaction flow is presented by the schema bellow:
 
+![SAGA flow chart](https://github.com/VeryGoodTravel/.github/blob/main/profile/saga.svg)
 
  ## Frontend documentation
  - [Web application](https://github.com/VeryGoodTravel/vgt-web-app/blob/main/docs/docs.md)
@@ -27,4 +28,4 @@ SAGA transaction flow is presented by the schema bellow:
 
 # <a name="vis">Visualization</a>
 
-![Project schema](https://github.com/VeryGoodTravel/.github/blob/main/profile/components.png)
+![Project schema](https://github.com/VeryGoodTravel/.github/blob/main/profile/components.svg)
