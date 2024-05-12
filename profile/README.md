@@ -6,7 +6,7 @@ Schema of the project [at the end of this doument](#project) shows separation of
 ## SAGA documentation
 
 SAGA was implemented with an orchestrator as our mode of organization. Detailed description of the orchestrator is presented in "Order service and orchestrator" mentioned bellow.
-SAGA transaction flow is presented by [the schema bellow](#saga).
+SAGA transaction flow is presented by [the schema bellow](#saga) and described more in depth in the orchestrator repository readme.
 
 All the services are described in the linked readme files bellow with the orchestrator, hotel and flight services having their own databases. Database schemas are presented in those readme files.
 
