@@ -1,7 +1,7 @@
 # DOCS
 
-Schema of the project shows separstion of the microservices  and how those services communicate.
-![Project schema](components.png)
+Schema of the project [at the end of this doument](#vis) shows separstion of the microservices  and how those services communicate.
+
 
 ## SAGA documentation
 
@@ -24,3 +24,7 @@ SAGA transaction follows the following diagram:
 
 ## Backend documentation
  - [API](https://github.com/VeryGoodTravel/vgt-api/blob/docs/Docs/README.md)
+
+# <a name="vis">Visualization</a>
+
+![Project schema](components.png)
