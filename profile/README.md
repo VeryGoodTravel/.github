@@ -24,7 +24,7 @@ All the services are described in the linked readme files bellow with the orches
 ## Backend documentation
  - [API](https://github.com/VeryGoodTravel/vgt-api/blob/docs/Docs/README.md)
 
-# <a name="project">Visualization</a>
+# <a name="project">Project components</a>
 
 ![Project schema](https://github.com/VeryGoodTravel/.github/blob/main/profile/components.svg)
 
