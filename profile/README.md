@@ -1,7 +1,7 @@
 # DOCS
 
 Schema of the project shows separstion of the microservices  and how those services communicate.
-
+![Project schema](components.png)
 
 ## SAGA documentation
 
@@ -14,7 +14,7 @@ All the services are described in the linked readme files below with the orchest
  - [Order Service and orchestrator](https://github.com/VeryGoodTravel/vgt-saga-orders/blob/main/README.md)
  - [Payment Service](https://github.com/VeryGoodTravel/vgt-saga-payment/blob/main/README.md)
  - [Hotel Service](https://github.com/VeryGoodTravel/vgt-saga-hotel/blob/main/README.md)
- - [Flight Service](https://github.com/VeryGoodTravel/vgt-flight-hotel/blob/main/README.md)
+ - [Flight Service](https://github.com/VeryGoodTravel/vgt-saga-flight/blob/main/README.md)
 
 SAGA transaction follows the following diagram:
 
