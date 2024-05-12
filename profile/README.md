@@ -27,4 +27,4 @@ SAGA transaction follows the following diagram:
 
 # <a name="vis">Visualization</a>
 
-![Project schema](components.png)
+![Project schema](https://github.com/VeryGoodTravel/.github/blob/main/profile/components.png)
