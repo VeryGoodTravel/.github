@@ -1,11 +1,12 @@
 # DOCS
 
-Schema of the project [at the end of this doument](#vis) shows separation of the microservices and how those services communicate.
+Schema of the project [at the end of this doument](#project) shows separation of the microservices and how those services communicate.
 
 
 ## SAGA documentation
 
 SAGA was implemented with an orchestrator as our mode of organization. Detailed description of the orchestrator is presented in "Order service and orchestrator" mentioned bellow.
+SAGA transaction flow is presented by [the schema bellow](#saga).
 
 All the services are described in the linked readme files bellow with the orchestrator, hotel and flight services having their own databases. Database schemas are presented in those readme files.
 
@@ -16,10 +17,6 @@ All the services are described in the linked readme files bellow with the orches
  - [Hotel Service](https://github.com/VeryGoodTravel/vgt-saga-hotel/blob/main/README.md)
  - [Flight Service](https://github.com/VeryGoodTravel/vgt-saga-flight/blob/main/README.md)
 
-SAGA transaction flow is presented by the schema bellow:
-
-![SAGA flow chart](https://github.com/VeryGoodTravel/.github/blob/main/profile/saga.svg)
-
  ## Frontend documentation
  - [Web application](https://github.com/VeryGoodTravel/vgt-web-app/blob/main/docs/docs.md)
  - [Acceptance tests for web application in Selenium](https://github.com/VeryGoodTravel/vgt-selenium-tests)
@@ -27,6 +24,10 @@ SAGA transaction flow is presented by the schema bellow:
 ## Backend documentation
  - [API](https://github.com/VeryGoodTravel/vgt-api/blob/docs/Docs/README.md)
 
-# <a name="vis">Visualization</a>
+# <a name="project">Visualization</a>
 
 ![Project schema](https://github.com/VeryGoodTravel/.github/blob/main/profile/components.svg)
+
+# <a name="saga">SAGA transaction flow</a>
+
+![SAGA flow chart](https://github.com/VeryGoodTravel/.github/blob/main/profile/saga.svg)
